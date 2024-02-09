@@ -1,0 +1,29 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "5a667f1c-1ec7-40a8-8f80-64032886de53": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 180,
+                    "y": 80
+                },
+                "z": 0
+            }
+        }
+    },
+    "Resources": {
+        "BbGtGoldenthinkerTradeAwsSignalParseLambda": {
+            "Type": "AWS::Lambda::Function",
+            "Properties": {},
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "5a667f1c-1ec7-40a8-8f80-64032886de53"
+                }
+            }
+        }
+    }
+}

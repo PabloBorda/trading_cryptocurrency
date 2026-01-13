@@ -1,0 +1,5 @@
+certifi
+pymongo
+sshtunnel
+telethon
+tinydb

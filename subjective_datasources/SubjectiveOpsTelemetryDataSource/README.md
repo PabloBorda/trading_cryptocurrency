@@ -1,0 +1,17 @@
+# SubjectiveOpsTelemetryDataSource
+
+Subjective datasource implementation for SubjectiveOpsTelemetryDataSource.
+
+## Usage
+
+```python
+from subjective_datasources.SubjectiveOpsTelemetryDataSource import SubjectiveOpsTelemetryDataSource
+
+source = SubjectiveOpsTelemetryDataSource(params={})
+source.fetch()
+```
+
+## Parameters
+
+Use the params dictionary when constructing the datasource to provide connection and runtime values.
+Refer to get_connection_data() for required fields.
